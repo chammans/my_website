@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Christoph's Website</title>
+<title>Christoph's Website 2.0</title>
 </head>
 <body style="background-color:darkgrey" align="center">
   <h1 style="font-family:Helvetica">Today's Wx Synopsis</h1>
