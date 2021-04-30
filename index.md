@@ -4,7 +4,7 @@
 <title>Christoph's Website 2.0</title>
 </head>
 <body style="background-color:darkgrey" align="center">
-  <h1 style="font-family:Helvetica">Today's Wx Synopsis</h1>
+  <h1 style="font-family:Helvetica">Today's Wx gh plz Synopsis</h1>
   <p style="font-family:Arial">This section will have written weather synopsis.</p>
   <h2 style="font-family:Helvetica;font-size:20pt" > Today's Satelltite</h2>
   <img src="http://www.bom.gov.au/gms/IDE00135.201912230630.jpg" alt="BOM_MAP">
